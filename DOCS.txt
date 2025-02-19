@@ -1,0 +1,1 @@
+"contractAddress":"0xa19A6773A1ed4c7B66076cc07c362cb76ec71f81","deployer":"0x4DF6e92A3687d81c5B2427a608511cA042136226","network":"zeta_testnet"
